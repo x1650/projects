@@ -12,9 +12,9 @@ Hi! Here are the list of my completed projects. All of these are private reposit
 > Stack: Bootstrap, CodeIgniter4, and MySQL  
 
  **Subaybay Bata Management System (SBMS)** 
-> Government Agency/Company Name: Council for the Welfare of Children
-> URL: [https://sbms.cwc.gov.ph/](https://sbms.cwc.gov.ph/)
-> Role: System Presenter
+> Government Agency/Company Name: Council for the Welfare of Children  
+> URL: [https://sbms.cwc.gov.ph/](https://sbms.cwc.gov.ph/)  
+> Role: System Presenter  
 > Stack: Bootstrap, CodeIgniter3, and MySQL  
 
  **Seal of Child Friendly Local Governance - Knowledge Management System:** 
